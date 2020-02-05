@@ -1,2 +1,2 @@
 # madhuclinic.githu.io
-Hosts the web pages for MadhuClinic.com
+Hosts the web pages for https://MadhuClinic.com 
