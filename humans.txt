@@ -1,0 +1,21 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+    Vijay Rudraraju -- Web designer / web developer -- twitter/skype/gmail: @melbournevijay https://vjdesign.com.au
+
+# THANKS
+
+     * Kraken css and js boilerplate - http://cferdinandi.github.io/kraken/
+     * html5 boilerplate - html5 template - https://html5boilerplate.com/
+     * CSS Tricks - Chris Coyier - https://css-tricks.com/
+
+     Copyright -- MIT license -- http://opensource.org/licenses/MIT
+
+# TECHNOLOGY COLOPHON
+
+    CSS3, HTML5, JavaScript, PHP, WordPress, jQuery and Normalize.css
+
+    This site is built using the awesome Kraken boilerplate [http://cferdinandi.github.io/kraken/].
+    Many thanks to Chris Ferdinandi for this framework and his continued support.
